@@ -46,7 +46,6 @@
    - GRU 模型：运行 `GRU_main.py`
    - CNN 模型：运行 `CNN_main.py`
    - BERT 模型：基于Hugging Face上的 [bert-base-chinese](https://huggingface.co/google-bert/bert-base-chinese)进行训练，运行前需要将模型下载到本地
-   
                 运行 `BERT_main.py`
 
 5. **模型测试**
